@@ -23,7 +23,8 @@ The MovieCard remains a StatelessWidget because the counter's state is managed b
 <img width="402" height="801" alt="Screenshot 2026-10-16 025627" src="https://github.com/user-attachments/assets/9332e59e-9677-4d03-94e4-bc62f48f02fc" />,<img width="385" height="777" alt="Screenshot 2026-10-16 025705" src="https://github.com/user-attachments/assets/8f6b5c10-c727-493d-b1b9-553af1c9d53a" />
 
 ##  If no movie matches, show a centered message: "No movies found"
-instead of messege ,lottieAsset appears.
+
 <img width="382" height="788" alt="Screenshot 2026-10-16 025942" src="https://github.com/user-attachments/assets/f45e3c33-a04c-4cd0-8916-859aeb2959a6" />
+instead of messege ,lottieAsset appears.
 
 
