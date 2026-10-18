@@ -12,7 +12,12 @@ This is implemented using Flutter's setState() in the parent HomePage widget. Th
 
 The MovieCard remains a StatelessWidget because the counter's state is managed by HomePage.
 
-# Screenshots
+# Screenshots and videos to illustrate ui
+[https://drive.google.com/file/d/1cJsnx9h4G3_MvzhrdPcdX2vQZcO1xv07/view?usp=drive_link]
+[https://drive.google.com/file/d/10uJVybQ1JU4u3ar5QI8lovsCXMpQYrea/view?usp=drive_link]
+
+
+
 
 ## List View
 
